@@ -9,7 +9,7 @@ const Home = () => {
     }
   return (
     <div style={homeBox}>
-        <h1>I am Home Page</h1>
+        <h1>I am Home Again Page</h1>
     </div>
   )
 }
